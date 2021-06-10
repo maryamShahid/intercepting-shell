@@ -1,3 +1,3 @@
 # intercepting-shell
 
-C Intercepting Shell
+C Intercepting Shell that supports pipelining
