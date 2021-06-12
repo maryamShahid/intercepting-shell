@@ -1,4 +1,4 @@
-# intercepting-shell
+# Intercepting Shell
 
 ### Shell execution:
 Find the directory project locates
